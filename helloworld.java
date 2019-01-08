@@ -9,6 +9,8 @@ public class helloworld {
 
         // Ausgabe hello world
         System.out.println("Hello world");
+
+        functions.Ausgabe("Das ist mein Funktionsaufruf");
     }
 
 
