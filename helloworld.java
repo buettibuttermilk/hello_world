@@ -5,5 +5,12 @@ package helloworld;
  */
 public class helloworld {
 
+    public static void main(String[] args) {
+
+        // Ausgabe hello world
+        System.out.println("Hello world");
+    }
+
+
 
 }
